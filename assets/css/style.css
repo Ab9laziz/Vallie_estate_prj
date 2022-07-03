@@ -1,0 +1,56 @@
+                            /* Navbar styling */
+                            
+ul li{
+    list-style-type: none;
+    margin: 30px;
+    padding: 10px;
+    display: inline;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+nav{
+    border-bottom: 1px grey solid;
+    padding: 15px 0;
+
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(144, 126, 126);
+    font-weight:600;
+}
+
+
+.nav_button{
+    float: right;
+    margin: auto 100px ;
+    font-family: 'Space Grotesk', sans-serif;
+    padding: 20px;
+    background-color:#2549D3;
+    color: #fafafa;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.heading{
+    color: black;
+    font-weight:900;
+    font-family: 'Oleo Script', cursive;
+    font-size:40px;
+}
+
+.heading:hover{
+    color: rgb(240, 231, 231);
+}
+
+.middle{
+    margin-left: 200px;
+}
+
+.middle a:hover{
+    color: black;
+}
+
+body{
+    background-color: #fafafa;
+}
