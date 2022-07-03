@@ -57,6 +57,34 @@ body{
     background-color: #fafafa;
 }
 
+                            /* Why you shld choose us section */
+.container13{
+    margin: 100px 100px; 
+    width: 100%;   
+}
+
+.container14 img{
+    height: 320px;
+    width: 50%;
+    margin-left: 400px;
+}
+.container14{
+    display: inline-block;
+    width: 50%;
+}
+
+.container15{
+    display: inline-block;
+    font-family: 'Space Grotesk', sans-serif;
+    color: #2549D3;
+}
+.container15 li{
+    display: block;
+}
+.container15 p{
+    color: #4f5057;
+}
+
                             /* Featured Properties */
 
 .button2{
@@ -144,8 +172,7 @@ body{
     padding:10px 30px;
     margin: 20px;
     font-size:larger;
-    position: relative;
-    left: 800px;
+
 }
 
 
