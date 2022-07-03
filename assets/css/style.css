@@ -57,6 +57,35 @@ body{
     background-color: #fafafa;
 }
 
+
+                            /* 2nd Section */
+
+.container17{
+    color: #2549D3;
+    font-family: 'Space Grotesk', sans-serif;
+    width: 50%;
+    margin-top: 300px;
+}
+
+.container17 p{
+  color: #4f5057;  
+}
+.container18{
+    width: 50%;
+    float: right;
+}
+
+
+.button3{
+    background-color: #2549D3;
+    color: #fafafa;
+    border-radius: 20px;
+    padding:10px 30px;
+    margin: 20px;
+    font-size:larger;
+}
+
+
                             /* Why you shld choose us section */
 .container13{
     margin: 100px 100px; 
