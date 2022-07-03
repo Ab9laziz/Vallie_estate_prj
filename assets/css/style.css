@@ -56,6 +56,38 @@ li a{
 body{
     background-color: #fafafa;
 }
+                            /* Client Feedback Section */
+.container5{
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+}
+
+.container5 h1{
+    color: #2549D3;
+}
+
+.container5 h3{
+    color: #4f5057;
+}
+.container6,.container7,.container8{
+    display: inline-block;
+    width: 33%;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+
+.button1{
+    background-color: #2549D3;
+    color: #fafafa;
+    border-radius: 20px;
+    padding:10px 30px;
+    margin: 20px;
+    font-size:larger;
+    position: relative;
+    left: 800px;
+}
+
 
             /* footer */
 .main_container{
