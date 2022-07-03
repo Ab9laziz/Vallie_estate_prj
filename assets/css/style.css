@@ -31,7 +31,9 @@ li a{
     border-radius: 10px;
     font-size: large;
 }
-
+.nav_button:hover{
+    background-color: #1e1f21;
+}
 .heading{
     color: black;
     font-weight:900;
@@ -53,4 +55,89 @@ li a{
 
 body{
     background-color: #fafafa;
+}
+
+            /* footer */
+.main_container{
+    background-color: #2549D3;
+}   
+.container1{
+    color: #fafafa;
+    font-family: 'Space Grotesk', sans-serif;
+    text-align:justify;
+    display: inline-block;
+    width: 25%;
+    font-size: 20px;
+    margin: auto 0;
+    position: relative;
+    bottom: 240px;
+    padding: 0 50px;
+}        
+
+.container1 h1{
+    color: #fafafa;
+    font-family: 'Oleo Script', cursive;
+    margin-bottom: 0;
+}
+.container1 p{
+   margin-top: 0; 
+}
+
+.container2{
+    display: inline-block;
+    width: 15%;
+    padding: 75px 0;
+    font-size: 20px;    
+    color: #fafafa;
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: justify;
+}
+
+.container2 li{
+    display:block;
+}
+
+.container2 h3{
+    text-align:left;
+    padding-left: 78px;
+}
+
+.container3{
+    display: inline-block;
+    width: 25%;
+    font-size: 20px;    
+    color: #fafafa;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 20px;
+    text-align: justify;
+    position: relative;
+    bottom: 25px;
+}
+
+.container3 li{
+    display:block;
+}
+
+.container3 h3{
+ margin-left: 78px;   
+}
+
+
+.container4{
+    display: inline-block;
+    width: 25%;
+    font-size: 20px;    
+    color: #fafafa;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 0;
+    position: relative;
+    bottom: 25px;
+}
+.container4 li{
+    display:block;
+     
+}
+
+.container4 h3{
+    margin-left: 80px;
 }
