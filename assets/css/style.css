@@ -60,7 +60,10 @@ body{
 
                             /* 2nd Section */
 
-.container17{
+        #mansion_img{
+            float: right;
+        }
+/* .container17{
     color: #2549D3;
     font-family: 'Space Grotesk', sans-serif;
     width: 50%;
@@ -69,11 +72,11 @@ body{
 
 .container17 p{
   color: #4f5057;  
-}
-.container18{
+} */
+/* .container18{
     width: 50%;
     float: right;
-}
+} */
 
 
 .button3{
