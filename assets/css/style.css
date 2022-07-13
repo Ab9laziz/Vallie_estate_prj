@@ -63,6 +63,9 @@ body{
         #mansion_img{
             float: right;
         }
+        .container16{
+            margin: 50px;
+        }
 /* .container17{
     color: #2549D3;
     font-family: 'Space Grotesk', sans-serif;
